@@ -16,7 +16,7 @@ v0.1:
 
 Usage:
 1. Extract the zip file to a location on your vCenter server(s).
-2. 2. Fill in the fields in the INI file.
-3. 3. Configure a scheduled task on each server to run the script no more than every 30 minutes (I recommend once an hour).
+2. Fill in the fields in the INI file.
+3. Configure a scheduled task on each server to run the script no more than every 30 minutes (I recommend once an hour).
 -help
 Display this help text and version number.
