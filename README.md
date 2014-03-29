@@ -8,7 +8,7 @@ Known Issues:
 - Large numbers of ESX servers will probably cause bad things to happen as it currently attempts to connect to all found ESX servers simultaneously… which is ok if you have less than 30.
 
 Project Status:
-Working - Unfinished
+Working - Alpha
 
 Patch Notes:
 v0.1:
